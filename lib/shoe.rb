@@ -1,1 +1,1 @@
-Shoe.new
+class Shoe
