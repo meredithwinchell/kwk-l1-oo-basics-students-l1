@@ -1,1 +1,1 @@
-# Make your shoe class here!
+Shoe.new("Adidas")
