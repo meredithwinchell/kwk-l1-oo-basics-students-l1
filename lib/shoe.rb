@@ -1,1 +1,1 @@
-{Shoe.new("Adidas")}
+Shoe.new
